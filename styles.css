@@ -12,9 +12,13 @@ body{
 #heading{
 	text-align:center;
 }
-.book-library{
-	background-color:#ffffff;
+.space{
+	width:100vw;
+	height:30px;
+	margin-bottom:20px;
+	background-color:white
 }
+
 .book cite{
 	color:#777777;
 }
