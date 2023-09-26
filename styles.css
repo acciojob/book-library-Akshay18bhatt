@@ -7,17 +7,13 @@ body{
 	margin-left:auto;
 	margin-right:auto;
 }
-.space{
-	width:100%;
-	height:30px;
-	background-color:white;
-}
+
 
 #heading{
 	text-align:center;
 }
 .book-library{
-	background-color:#ffffff
+	background-color:#ffffff;
 }
 .book cite{
 	color:#777777;
